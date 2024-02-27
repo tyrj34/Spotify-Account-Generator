@@ -1,6 +1,6 @@
 {
     "Use_Proxy": "y",
-    "Threads": 20,
+    "Threads": 250,
 
     "Username": "",
     "Email_Names": "",
